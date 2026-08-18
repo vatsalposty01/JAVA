@@ -1,0 +1,2 @@
+ID: 101, Name: Amit Sharma, Age: 45, Diagnosis: Viral Fever
+ID: 102, Name: Neha Singh, Age: 32, Diagnosis: Migraine
